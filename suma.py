@@ -4,3 +4,4 @@ segundoNumero = int(input("Ingrese un 2 numero: "))
 suma = (primerNumero + segundoNumero)
 
 print(suma)
+# yei
