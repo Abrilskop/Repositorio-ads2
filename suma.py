@@ -5,3 +5,6 @@ suma = (primerNumero + segundoNumero)
 
 print(suma)
 # yei
+
+resta = (primerNumero + segundoNumero)
+# yei
